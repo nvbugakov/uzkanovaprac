@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">uzkanovaact</string>
+    <string name="go_to_second_activity">Go To Second Activity</string>
+    <string name="_1">Экран 1</string>
+    <string name="_2">Экран 2</string>
+    <string name="todo">TODO</string>
+    <string name="rsa">Узканова Маргарита</string>
+    <string name="dsa">TODO</string>
+    <string name="text">Text</string>
+    <string name="dsacsa">Скоро наступит зима!</string>
+</resources>
